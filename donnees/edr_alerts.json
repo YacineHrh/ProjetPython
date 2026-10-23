@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "EDR-10001",
+    "horodatage": "2026-08-31T09:26:36+02:00",
+    "machine": "PC-LYO-1128",
+    "utilisateur": "s.boyer",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10002",
+    "horodatage": "2026-08-31T10:00:01+02:00",
+    "machine": "PC-SIE-1016",
+    "utilisateur": "s.vincent",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10004",
+    "horodatage": "2026-08-31T10:34:20+02:00",
+    "machine": "PC-SIE-1087",
+    "utilisateur": "g.martin",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10006",
+    "horodatage": "2026-08-31T12:24:06+02:00",
+    "machine": "PC-LIL-1030",
+    "utilisateur": "n.simon",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10000",
+    "horodatage": "2026-08-31T13:42:07+02:00",
+    "machine": "PC-SIE-1027",
+    "utilisateur": "g.dubois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10003",
+    "horodatage": "2026-08-31T15:13:11+02:00",
+    "machine": "PC-LYO-1043",
+    "utilisateur": "e.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10005",
+    "horodatage": "2026-08-31T16:43:01+02:00",
+    "machine": "PC-LYO-1275",
+    "utilisateur": "h.andre",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10008",
+    "horodatage": "2026-09-01T09:48:23+02:00",
+    "machine": "PC-SIE-1276",
+    "utilisateur": "n.garnier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10015",
+    "horodatage": "2026-09-01T09:49:35+02:00",
+    "machine": "PC-SIE-1217",
+    "utilisateur": "k.lefebvre",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10013",
+    "horodatage": "2026-09-01T12:01:28+02:00",
+    "machine": "PC-SIE-1000",
+    "utilisateur": "l.perrin",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10010",
+    "horodatage": "2026-09-01T12:33:07+02:00",
+    "machine": "PC-LYO-1159",
+    "utilisateur": "j.roux",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10007",
+    "horodatage": "2026-09-01T13:10:42+02:00",
+    "machine": "PC-SIE-1019",
+    "utilisateur": "m.durand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10014",
+    "horodatage": "2026-09-01T15:58:55+02:00",
+    "machine": "PC-SIE-1217",
+    "utilisateur": "k.lefebvre",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10009",
+    "horodatage": "2026-09-01T16:41:32+02:00",
+    "machine": "PC-LIL-1266",
+    "utilisateur": "a.laurent",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10011",
+    "horodatage": "2026-09-01T16:50:34+02:00",
+    "machine": "PC-LIL-1182",
+    "utilisateur": "h.lefebvre",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10012",
+    "horodatage": "2026-09-01T17:30:13+02:00",
+    "machine": "PC-SIE-1172",
+    "utilisateur": "k.moreau",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10020",
+    "horodatage": "2026-09-02T07:50:08+02:00",
+    "machine": "PC-LYO-1234",
+    "utilisateur": "p.bertrand",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10018",
+    "horodatage": "2026-09-02T08:06:42+02:00",
+    "machine": "PC-SIE-1150",
+    "utilisateur": "j.petit",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10021",
+    "horodatage": "2026-09-02T10:23:33+02:00",
+    "machine": "PC-LYO-1239",
+    "utilisateur": "s.bernard",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10027",
+    "horodatage": "2026-09-02T12:16:23+02:00",
+    "machine": "PC-LYO-1058",
+    "utilisateur": "t.roux",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10017",
+    "horodatage": "2026-09-02T13:13:17+02:00",
+    "machine": "PC-LYO-1234",
+    "utilisateur": "p.bertrand",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10025",
+    "horodatage": "2026-09-02T13:29:15+02:00",
+    "machine": "PC-SIE-1036",
+    "utilisateur": "h.laurent",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10024",
+    "horodatage": "2026-09-02T13:31:16+02:00",
+    "machine": "PC-SIE-1004",
+    "utilisateur": "b.michel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10023",
+    "horodatage": "2026-09-02T13:52:09+02:00",
+    "machine": "PC-SIE-1185",
+    "utilisateur": "j.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10016",
+    "horodatage": "2026-09-02T14:43:29+02:00",
+    "machine": "PC-LYO-1059",
+    "utilisateur": "j.david",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10022",
+    "horodatage": "2026-09-02T14:52:32+02:00",
+    "machine": "PC-LYO-1232",
+    "utilisateur": "n.garcia",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10028",
+    "horodatage": "2026-09-02T14:59:33+02:00",
+    "machine": "PC-SIE-1280",
+    "utilisateur": "j.michel",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10019",
+    "horodatage": "2026-09-02T15:39:21+02:00",
+    "machine": "PC-SIE-1117",
+    "utilisateur": "c.durand",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10026",
+    "horodatage": "2026-09-02T16:26:55+02:00",
+    "machine": "PC-LYO-1058",
+    "utilisateur": "t.roux",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10036",
+    "horodatage": "2026-09-03T08:35:20+02:00",
+    "machine": "PC-SIE-1210",
+    "utilisateur": "y.roux",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10030",
+    "horodatage": "2026-09-03T09:06:13+02:00",
+    "machine": "PC-LYO-1107",
+    "utilisateur": "h.girard",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10037",
+    "horodatage": "2026-09-03T09:30:26+02:00",
+    "machine": "PC-SIE-1004",
+    "utilisateur": "b.michel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10034",
+    "horodatage": "2026-09-03T12:04:12+02:00",
+    "machine": "PC-SIE-1116",
+    "utilisateur": "a.fournier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10031",
+    "horodatage": "2026-09-03T12:31:40+02:00",
+    "machine": "PC-LYO-1295",
+    "utilisateur": "h.garcia",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10040",
+    "horodatage": "2026-09-03T12:43:29+02:00",
+    "machine": "PC-SIE-1251",
+    "utilisateur": "f.leroy",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10035",
+    "horodatage": "2026-09-03T12:49:03+02:00",
+    "machine": "PC-SIE-1235",
+    "utilisateur": "d.simon",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10039",
+    "horodatage": "2026-09-03T13:35:06+02:00",
+    "machine": "PC-SIE-1221",
+    "utilisateur": "y.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10032",
+    "horodatage": "2026-09-03T13:59:53+02:00",
+    "machine": "PC-SIE-1195",
+    "utilisateur": "e.michel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10029",
+    "horodatage": "2026-09-03T14:13:17+02:00",
+    "machine": "PC-SIE-1109",
+    "utilisateur": "l.lefebvre",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10033",
+    "horodatage": "2026-09-03T15:34:35+02:00",
+    "machine": "PC-LYO-1257",
+    "utilisateur": "s.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10038",
+    "horodatage": "2026-09-03T15:48:55+02:00",
+    "machine": "PC-SIE-1176",
+    "utilisateur": "m.david",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10044",
+    "horodatage": "2026-09-04T08:02:55+02:00",
+    "machine": "PC-SIE-1141",
+    "utilisateur": "g.blanc",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10041",
+    "horodatage": "2026-09-04T09:27:34+02:00",
+    "machine": "PC-LYO-1239",
+    "utilisateur": "s.bernard",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10049",
+    "horodatage": "2026-09-04T10:09:34+02:00",
+    "machine": "PC-SIE-1053",
+    "utilisateur": "h.roux",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10045",
+    "horodatage": "2026-09-04T10:34:52+02:00",
+    "machine": "PC-LYO-1066",
+    "utilisateur": "l.fournier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10048",
+    "horodatage": "2026-09-04T11:01:17+02:00",
+    "machine": "PC-SIE-1286",
+    "utilisateur": "h.moreau",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10047",
+    "horodatage": "2026-09-04T11:54:50+02:00",
+    "machine": "PC-SIE-1125",
+    "utilisateur": "c.girard",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10043",
+    "horodatage": "2026-09-04T15:26:26+02:00",
+    "machine": "PC-SIE-1049",
+    "utilisateur": "l.leroy",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10042",
+    "horodatage": "2026-09-04T16:01:53+02:00",
+    "machine": "PC-SIE-1273",
+    "utilisateur": "j.durand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10051",
+    "horodatage": "2026-09-04T16:14:00+02:00",
+    "machine": "PC-SIE-1203",
+    "utilisateur": "i.michel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10050",
+    "horodatage": "2026-09-04T17:34:56+02:00",
+    "machine": "PC-LYO-1009",
+    "utilisateur": "n.perrin",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10046",
+    "horodatage": "2026-09-04T17:53:42+02:00",
+    "machine": "PC-LIL-1161",
+    "utilisateur": "s.garnier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10055",
+    "horodatage": "2026-09-05T09:58:17+02:00",
+    "machine": "PC-LIL-1080",
+    "utilisateur": "g.gauthier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10056",
+    "horodatage": "2026-09-05T11:33:30+02:00",
+    "machine": "PC-LYO-1015",
+    "utilisateur": "m.morel",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10054",
+    "horodatage": "2026-09-05T13:29:04+02:00",
+    "machine": "PC-LYO-1198",
+    "utilisateur": "d.moreau",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10053",
+    "horodatage": "2026-09-05T13:34:27+02:00",
+    "machine": "PC-LYO-1292",
+    "utilisateur": "j.bernard",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10057",
+    "horodatage": "2026-09-05T13:45:20+02:00",
+    "machine": "PC-LYO-1133",
+    "utilisateur": "a.petit",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10059",
+    "horodatage": "2026-09-05T14:27:44+02:00",
+    "machine": "PC-SIE-1144",
+    "utilisateur": "p.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10058",
+    "horodatage": "2026-09-05T14:43:44+02:00",
+    "machine": "PC-LIL-1297",
+    "utilisateur": "h.simon",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10052",
+    "horodatage": "2026-09-05T15:41:19+02:00",
+    "machine": "PC-SIE-1122",
+    "utilisateur": "t.simon",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10061",
+    "horodatage": "2026-09-06T07:50:24+02:00",
+    "machine": "PC-LYO-1010",
+    "utilisateur": "h.petit",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10062",
+    "horodatage": "2026-09-06T08:22:54+02:00",
+    "machine": "PC-SIE-1121",
+    "utilisateur": "h.morel",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10069",
+    "horodatage": "2026-09-06T08:24:59+02:00",
+    "machine": "PC-SIE-1105",
+    "utilisateur": "m.boyer",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10070",
+    "horodatage": "2026-09-06T09:07:48+02:00",
+    "machine": "PC-LYO-1163",
+    "utilisateur": "s.girard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10065",
+    "horodatage": "2026-09-06T09:08:20+02:00",
+    "machine": "PC-SIE-1191",
+    "utilisateur": "b.durand",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10067",
+    "horodatage": "2026-09-06T09:48:09+02:00",
+    "machine": "PC-SIE-1012",
+    "utilisateur": "n.petit",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10066",
+    "horodatage": "2026-09-06T10:01:56+02:00",
+    "machine": "PC-SIE-1081",
+    "utilisateur": "k.dubois",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10060",
+    "horodatage": "2026-09-06T11:18:00+02:00",
+    "machine": "PC-SIE-1034",
+    "utilisateur": "t.moreau",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10064",
+    "horodatage": "2026-09-06T14:29:18+02:00",
+    "machine": "PC-LYO-1269",
+    "utilisateur": "m.bertrand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10063",
+    "horodatage": "2026-09-06T14:56:08+02:00",
+    "machine": "PC-LYO-1241",
+    "utilisateur": "e.durand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10071",
+    "horodatage": "2026-09-06T15:04:26+02:00",
+    "machine": "PC-LYO-1187",
+    "utilisateur": "l.martin",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10068",
+    "horodatage": "2026-09-06T16:12:15+02:00",
+    "machine": "PC-LYO-1142",
+    "utilisateur": "j.moreau",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10074",
+    "horodatage": "2026-09-07T10:08:22+02:00",
+    "machine": "PC-SIE-1150",
+    "utilisateur": "j.petit",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10073",
+    "horodatage": "2026-09-07T11:13:19+02:00",
+    "machine": "PC-LYO-1025",
+    "utilisateur": "e.blanc",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10072",
+    "horodatage": "2026-09-07T12:32:14+02:00",
+    "machine": "PC-LYO-1074",
+    "utilisateur": "n.michel",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10077",
+    "horodatage": "2026-09-07T14:28:16+02:00",
+    "machine": "PC-SIE-1101",
+    "utilisateur": "k.michel",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10078",
+    "horodatage": "2026-09-07T14:34:45+02:00",
+    "machine": "PC-SIE-1018",
+    "utilisateur": "s.morel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10079",
+    "horodatage": "2026-09-07T14:59:28+02:00",
+    "machine": "PC-SIE-1148",
+    "utilisateur": "y.morel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10076",
+    "horodatage": "2026-09-07T15:50:10+02:00",
+    "machine": "PC-SIE-1250",
+    "utilisateur": "p.boyer",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10075",
+    "horodatage": "2026-09-07T17:49:31+02:00",
+    "machine": "PC-LIL-1266",
+    "utilisateur": "a.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10080",
+    "horodatage": "2026-09-08T09:09:15+02:00",
+    "machine": "PC-LYO-1158",
+    "utilisateur": "n.gauthier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10084",
+    "horodatage": "2026-09-08T10:48:23+02:00",
+    "machine": "PC-SIE-1049",
+    "utilisateur": "l.leroy",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10088",
+    "horodatage": "2026-09-08T11:08:12+02:00",
+    "machine": "PC-LIL-1197",
+    "utilisateur": "y.andre",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10083",
+    "horodatage": "2026-09-08T11:29:43+02:00",
+    "machine": "PC-SIE-1062",
+    "utilisateur": "y.mercier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10092",
+    "horodatage": "2026-09-08T11:31:54+02:00",
+    "machine": "PC-LYO-1223",
+    "utilisateur": "g.bernard",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10082",
+    "horodatage": "2026-09-08T11:35:54+02:00",
+    "machine": "PC-SIE-1001",
+    "utilisateur": "a.chevalier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10091",
+    "horodatage": "2026-09-08T12:06:57+02:00",
+    "machine": "PC-LYO-1262",
+    "utilisateur": "i.andre",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10085",
+    "horodatage": "2026-09-08T13:49:48+02:00",
+    "machine": "PC-SIE-1166",
+    "utilisateur": "l.petit",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10086",
+    "horodatage": "2026-09-08T15:12:59+02:00",
+    "machine": "PC-LYO-1145",
+    "utilisateur": "j.mercier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10089",
+    "horodatage": "2026-09-08T16:05:21+02:00",
+    "machine": "PC-SIE-1035",
+    "utilisateur": "l.andre",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10087",
+    "horodatage": "2026-09-08T16:23:48+02:00",
+    "machine": "PC-SIE-1196",
+    "utilisateur": "n.francois",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10090",
+    "horodatage": "2026-09-08T16:47:48+02:00",
+    "machine": "PC-SIE-1060",
+    "utilisateur": "l.laurent",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10081",
+    "horodatage": "2026-09-08T17:56:18+02:00",
+    "machine": "PC-SIE-1047",
+    "utilisateur": "h.garnier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10100",
+    "horodatage": "2026-09-09T08:36:50+02:00",
+    "machine": "PC-SIE-1166",
+    "utilisateur": "l.petit",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10098",
+    "horodatage": "2026-09-09T08:47:39+02:00",
+    "machine": "PC-LYO-1085",
+    "utilisateur": "n.girard",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10093",
+    "horodatage": "2026-09-09T09:56:30+02:00",
+    "machine": "PC-LIL-1099",
+    "utilisateur": "b.moreau",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10097",
+    "horodatage": "2026-09-09T10:35:44+02:00",
+    "machine": "PC-SIE-1245",
+    "utilisateur": "e.bertrand",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10099",
+    "horodatage": "2026-09-09T12:12:30+02:00",
+    "machine": "PC-LIL-1208",
+    "utilisateur": "c.garnier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10094",
+    "horodatage": "2026-09-09T14:18:01+02:00",
+    "machine": "PC-LYO-1029",
+    "utilisateur": "j.guerin",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10096",
+    "horodatage": "2026-09-09T15:00:35+02:00",
+    "machine": "PC-SIE-1109",
+    "utilisateur": "l.lefebvre",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10095",
+    "horodatage": "2026-09-09T16:40:15+02:00",
+    "machine": "PC-LYO-1236",
+    "utilisateur": "c.leroy",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10101",
+    "horodatage": "2026-09-10T07:29:57+02:00",
+    "machine": "PC-LIL-1197",
+    "utilisateur": "y.andre",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10111",
+    "horodatage": "2026-09-10T09:10:51+02:00",
+    "machine": "PC-LYO-1292",
+    "utilisateur": "j.bernard",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10102",
+    "horodatage": "2026-09-10T09:54:18+02:00",
+    "machine": "PC-SIE-1127",
+    "utilisateur": "i.david",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10105",
+    "horodatage": "2026-09-10T10:49:24+02:00",
+    "machine": "PC-LYO-1258",
+    "utilisateur": "t.leroy",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10103",
+    "horodatage": "2026-09-10T11:27:21+02:00",
+    "machine": "PC-LYO-1146",
+    "utilisateur": "i.lefebvre",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10108",
+    "horodatage": "2026-09-10T12:45:48+02:00",
+    "machine": "PC-SIE-1117",
+    "utilisateur": "c.durand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10107",
+    "horodatage": "2026-09-10T12:48:16+02:00",
+    "machine": "PC-SIE-1242",
+    "utilisateur": "s.francois",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10109",
+    "horodatage": "2026-09-10T13:52:14+02:00",
+    "machine": "PC-LIL-1130",
+    "utilisateur": "e.moreau",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10112",
+    "horodatage": "2026-09-10T14:05:35+02:00",
+    "machine": "PC-SIE-1007",
+    "utilisateur": "a.francois",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10104",
+    "horodatage": "2026-09-10T14:09:48+02:00",
+    "machine": "PC-SIE-1031",
+    "utilisateur": "h.mercier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10106",
+    "horodatage": "2026-09-10T15:36:19+02:00",
+    "machine": "PC-LYO-1227",
+    "utilisateur": "h.bernard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10110",
+    "horodatage": "2026-09-10T15:42:53+02:00",
+    "machine": "PC-LYO-1234",
+    "utilisateur": "p.bertrand",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10114",
+    "horodatage": "2026-09-11T08:04:08+02:00",
+    "machine": "PC-SIE-1045",
+    "utilisateur": "e.guerin",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10122",
+    "horodatage": "2026-09-11T08:54:12+02:00",
+    "machine": "PC-LYO-1184",
+    "utilisateur": "t.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10117",
+    "horodatage": "2026-09-11T09:11:27+02:00",
+    "machine": "PC-SIE-1183",
+    "utilisateur": "c.bertrand",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10124",
+    "horodatage": "2026-09-11T09:29:15+02:00",
+    "machine": "PC-LIL-1197",
+    "utilisateur": "y.andre",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10116",
+    "horodatage": "2026-09-11T10:08:31+02:00",
+    "machine": "PC-SIE-1083",
+    "utilisateur": "c.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10203",
+    "horodatage": "2026-09-11T11:20:00+02:00",
+    "machine": "PC-SIE-1000",
+    "utilisateur": "l.perrin",
+    "titre": "Page d'hameçonnage visitée",
+    "gravite": "moyenne",
+    "statut": "ouvert",
+    "note_analyste": "Connexion à un domaine récemment enregistré imitant un service interne"
+  },
+  {
+    "id": "EDR-10125",
+    "horodatage": "2026-09-11T11:45:26+02:00",
+    "machine": "PC-SIE-1195",
+    "utilisateur": "e.michel",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10118",
+    "horodatage": "2026-09-11T13:09:37+02:00",
+    "machine": "PC-LYO-1261",
+    "utilisateur": "d.legrand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10120",
+    "horodatage": "2026-09-11T13:50:06+02:00",
+    "machine": "PC-SIE-1040",
+    "utilisateur": "j.morel",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10119",
+    "horodatage": "2026-09-11T14:59:38+02:00",
+    "machine": "PC-LIL-1151",
+    "utilisateur": "e.chevalier",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10121",
+    "horodatage": "2026-09-11T15:40:21+02:00",
+    "machine": "PC-SIE-1069",
+    "utilisateur": "h.legrand",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10123",
+    "horodatage": "2026-09-11T15:43:49+02:00",
+    "machine": "PC-LIL-1253",
+    "utilisateur": "t.vincent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10115",
+    "horodatage": "2026-09-11T16:15:01+02:00",
+    "machine": "PC-SIE-1237",
+    "utilisateur": "e.perrin",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10113",
+    "horodatage": "2026-09-11T16:45:36+02:00",
+    "machine": "PC-LYO-1234",
+    "utilisateur": "p.bertrand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10135",
+    "horodatage": "2026-09-12T07:16:10+02:00",
+    "machine": "PC-LYO-1085",
+    "utilisateur": "n.girard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10128",
+    "horodatage": "2026-09-12T09:59:45+02:00",
+    "machine": "PC-LYO-1187",
+    "utilisateur": "l.martin",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10131",
+    "horodatage": "2026-09-12T11:18:47+02:00",
+    "machine": "PC-SIE-1125",
+    "utilisateur": "c.girard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10137",
+    "horodatage": "2026-09-12T12:22:12+02:00",
+    "machine": "PC-SIE-1229",
+    "utilisateur": "a.bernard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10138",
+    "horodatage": "2026-09-12T12:41:46+02:00",
+    "machine": "PC-LYO-1232",
+    "utilisateur": "n.garcia",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10133",
+    "horodatage": "2026-09-12T12:45:30+02:00",
+    "machine": "PC-SIE-1139",
+    "utilisateur": "p.mercier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10127",
+    "horodatage": "2026-09-12T13:11:49+02:00",
+    "machine": "PC-SIE-1192",
+    "utilisateur": "j.fournier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10130",
+    "horodatage": "2026-09-12T13:47:02+02:00",
+    "machine": "PC-LIL-1285",
+    "utilisateur": "j.simon",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10132",
+    "horodatage": "2026-09-12T14:45:20+02:00",
+    "machine": "PC-SIE-1169",
+    "utilisateur": "l.david",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10134",
+    "horodatage": "2026-09-12T15:48:00+02:00",
+    "machine": "PC-LYO-1159",
+    "utilisateur": "j.roux",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10136",
+    "horodatage": "2026-09-12T15:55:37+02:00",
+    "machine": "PC-SIE-1221",
+    "utilisateur": "y.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10126",
+    "horodatage": "2026-09-12T15:57:59+02:00",
+    "machine": "PC-SIE-1144",
+    "utilisateur": "p.dubois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10129",
+    "horodatage": "2026-09-12T16:54:20+02:00",
+    "machine": "PC-SIE-1012",
+    "utilisateur": "n.petit",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10144",
+    "horodatage": "2026-09-13T09:37:14+02:00",
+    "machine": "PC-LIL-1075",
+    "utilisateur": "j.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10139",
+    "horodatage": "2026-09-13T11:52:47+02:00",
+    "machine": "PC-LYO-1042",
+    "utilisateur": "k.fournier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10142",
+    "horodatage": "2026-09-13T13:40:56+02:00",
+    "machine": "PC-LYO-1259",
+    "utilisateur": "m.chevalier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10143",
+    "horodatage": "2026-09-13T15:22:58+02:00",
+    "machine": "PC-LYO-1232",
+    "utilisateur": "n.garcia",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10140",
+    "horodatage": "2026-09-13T18:40:08+02:00",
+    "machine": "PC-SIE-1242",
+    "utilisateur": "s.francois",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10141",
+    "horodatage": "2026-09-13T18:57:48+02:00",
+    "machine": "PC-SIE-1027",
+    "utilisateur": "g.dubois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10204",
+    "horodatage": "2026-09-14T02:57:00+02:00",
+    "machine": "SRV-FILE01",
+    "utilisateur": "svc_monitoring",
+    "titre": "Création de compte à privilèges hors procédure",
+    "gravite": "critique",
+    "statut": "ouvert",
+    "note_analyste": "Compte svc_monitoring ajouté aux Admins du domaine la nuit"
+  },
+  {
+    "id": "EDR-10152",
+    "horodatage": "2026-09-14T08:29:07+02:00",
+    "machine": "PC-SIE-1047",
+    "utilisateur": "h.garnier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10145",
+    "horodatage": "2026-09-14T08:47:04+02:00",
+    "machine": "PC-SIE-1115",
+    "utilisateur": "d.boyer",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10150",
+    "horodatage": "2026-09-14T10:52:20+02:00",
+    "machine": "PC-SIE-1242",
+    "utilisateur": "s.francois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10149",
+    "horodatage": "2026-09-14T11:06:51+02:00",
+    "machine": "PC-LYO-1159",
+    "utilisateur": "j.roux",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10153",
+    "horodatage": "2026-09-14T11:34:03+02:00",
+    "machine": "PC-SIE-1149",
+    "utilisateur": "i.simon",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10156",
+    "horodatage": "2026-09-14T11:56:43+02:00",
+    "machine": "PC-LIL-1231",
+    "utilisateur": "t.fournier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10154",
+    "horodatage": "2026-09-14T12:12:25+02:00",
+    "machine": "PC-SIE-1164",
+    "utilisateur": "j.garcia",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10151",
+    "horodatage": "2026-09-14T12:26:29+02:00",
+    "machine": "PC-LYO-1174",
+    "utilisateur": "s.petit",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10148",
+    "horodatage": "2026-09-14T12:42:26+02:00",
+    "machine": "PC-LIL-1218",
+    "utilisateur": "k.mercier",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10147",
+    "horodatage": "2026-09-14T16:15:12+02:00",
+    "machine": "PC-LYO-1092",
+    "utilisateur": "n.guerin",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10157",
+    "horodatage": "2026-09-14T18:25:58+02:00",
+    "machine": "PC-LIL-1134",
+    "utilisateur": "n.vincent",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10146",
+    "horodatage": "2026-09-14T18:31:24+02:00",
+    "machine": "PC-SIE-1244",
+    "utilisateur": "j.vincent",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10155",
+    "horodatage": "2026-09-14T18:50:56+02:00",
+    "machine": "PC-SIE-1221",
+    "utilisateur": "y.dubois",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10160",
+    "horodatage": "2026-09-15T10:11:04+02:00",
+    "machine": "PC-LIL-1052",
+    "utilisateur": "j.legrand",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10161",
+    "horodatage": "2026-09-15T13:34:40+02:00",
+    "machine": "PC-SIE-1209",
+    "utilisateur": "t.mercier",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10158",
+    "horodatage": "2026-09-15T14:58:16+02:00",
+    "machine": "PC-SIE-1083",
+    "utilisateur": "c.laurent",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10159",
+    "horodatage": "2026-09-15T15:43:40+02:00",
+    "machine": "PC-SIE-1087",
+    "utilisateur": "g.martin",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10162",
+    "horodatage": "2026-09-15T15:51:02+02:00",
+    "machine": "PC-LYO-1074",
+    "utilisateur": "n.michel",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10163",
+    "horodatage": "2026-09-16T08:15:29+02:00",
+    "machine": "PC-LYO-1043",
+    "utilisateur": "e.dubois",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10164",
+    "horodatage": "2026-09-16T10:59:24+02:00",
+    "machine": "PC-SIE-1070",
+    "utilisateur": "c.garcia",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10166",
+    "horodatage": "2026-09-16T11:16:46+02:00",
+    "machine": "PC-SIE-1191",
+    "utilisateur": "b.durand",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10167",
+    "horodatage": "2026-09-16T12:08:00+02:00",
+    "machine": "PC-SIE-1282",
+    "utilisateur": "i.moreau",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10165",
+    "horodatage": "2026-09-16T13:22:51+02:00",
+    "machine": "PC-LIL-1134",
+    "utilisateur": "n.vincent",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10168",
+    "horodatage": "2026-09-16T16:31:34+02:00",
+    "machine": "PC-LIL-1077",
+    "utilisateur": "f.vincent",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10170",
+    "horodatage": "2026-09-17T09:54:52+02:00",
+    "machine": "PC-LYO-1259",
+    "utilisateur": "m.chevalier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10175",
+    "horodatage": "2026-09-17T10:31:01+02:00",
+    "machine": "PC-LYO-1092",
+    "utilisateur": "n.guerin",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10172",
+    "horodatage": "2026-09-17T11:52:08+02:00",
+    "machine": "PC-SIE-1201",
+    "utilisateur": "f.dubois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10176",
+    "horodatage": "2026-09-17T12:07:20+02:00",
+    "machine": "PC-LYO-1038",
+    "utilisateur": "j.garnier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10171",
+    "horodatage": "2026-09-17T12:35:17+02:00",
+    "machine": "PC-LYO-1292",
+    "utilisateur": "j.bernard",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10174",
+    "horodatage": "2026-09-17T12:35:47+02:00",
+    "machine": "PC-SIE-1238",
+    "utilisateur": "b.david",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10173",
+    "horodatage": "2026-09-17T13:54:14+02:00",
+    "machine": "PC-SIE-1171",
+    "utilisateur": "f.andre",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10169",
+    "horodatage": "2026-09-17T18:23:33+02:00",
+    "machine": "PC-SIE-1152",
+    "utilisateur": "d.blanc",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10182",
+    "horodatage": "2026-09-18T08:32:18+02:00",
+    "machine": "PC-LIL-1291",
+    "utilisateur": "t.dubois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10181",
+    "horodatage": "2026-09-18T08:42:52+02:00",
+    "machine": "PC-LIL-1099",
+    "utilisateur": "b.moreau",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10184",
+    "horodatage": "2026-09-18T09:27:41+02:00",
+    "machine": "PC-SIE-1273",
+    "utilisateur": "j.durand",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10185",
+    "horodatage": "2026-09-18T11:38:07+02:00",
+    "machine": "PC-LYO-1020",
+    "utilisateur": "m.martin",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10177",
+    "horodatage": "2026-09-18T12:29:17+02:00",
+    "machine": "PC-LYO-1126",
+    "utilisateur": "s.david",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10179",
+    "horodatage": "2026-09-18T14:30:26+02:00",
+    "machine": "PC-LYO-1239",
+    "utilisateur": "s.bernard",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10183",
+    "horodatage": "2026-09-18T14:37:28+02:00",
+    "machine": "PC-LYO-1158",
+    "utilisateur": "n.gauthier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10178",
+    "horodatage": "2026-09-18T14:54:16+02:00",
+    "machine": "PC-SIE-1144",
+    "utilisateur": "p.dubois",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10180",
+    "horodatage": "2026-09-18T15:51:57+02:00",
+    "machine": "PC-LIL-1291",
+    "utilisateur": "t.dubois",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  },
+  {
+    "id": "EDR-10205",
+    "horodatage": "2026-09-19T04:14:00+02:00",
+    "machine": "PC-SIE-1000",
+    "utilisateur": "l.perrin",
+    "titre": "Exfiltration de données probable",
+    "gravite": "critique",
+    "statut": "ouvert",
+    "note_analyste": "Transfert sortant volumineux vers un hébergeur inconnu un samedi à 3 h"
+  },
+  {
+    "id": "EDR-10186",
+    "horodatage": "2026-09-19T08:08:38+02:00",
+    "machine": "PC-LYO-1178",
+    "utilisateur": "t.garnier",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10196",
+    "horodatage": "2026-09-19T08:38:21+02:00",
+    "machine": "PC-SIE-1031",
+    "utilisateur": "h.mercier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10187",
+    "horodatage": "2026-09-19T09:56:28+02:00",
+    "machine": "PC-LIL-1098",
+    "utilisateur": "k.perrin",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10192",
+    "horodatage": "2026-09-19T10:25:14+02:00",
+    "machine": "PC-LIL-1136",
+    "utilisateur": "j.francois",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10194",
+    "horodatage": "2026-09-19T10:54:17+02:00",
+    "machine": "PC-SIE-1070",
+    "utilisateur": "c.garcia",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10190",
+    "horodatage": "2026-09-19T11:06:04+02:00",
+    "machine": "PC-SIE-1242",
+    "utilisateur": "s.francois",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10197",
+    "horodatage": "2026-09-19T11:10:34+02:00",
+    "machine": "PC-SIE-1028",
+    "utilisateur": "b.laurent",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10193",
+    "horodatage": "2026-09-19T11:39:08+02:00",
+    "machine": "PC-SIE-1180",
+    "utilisateur": "m.perrin",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10195",
+    "horodatage": "2026-09-19T12:09:57+02:00",
+    "machine": "PC-LYO-1158",
+    "utilisateur": "n.gauthier",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10188",
+    "horodatage": "2026-09-19T13:54:53+02:00",
+    "machine": "PC-LYO-1184",
+    "utilisateur": "t.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10191",
+    "horodatage": "2026-09-19T16:32:20+02:00",
+    "machine": "PC-SIE-1028",
+    "utilisateur": "b.laurent",
+    "titre": "Connexion à un service cloud",
+    "gravite": "info",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Sauvegarde personnelle"
+  },
+  {
+    "id": "EDR-10189",
+    "horodatage": "2026-09-19T17:33:27+02:00",
+    "machine": "PC-SIE-1089",
+    "utilisateur": "b.mercier",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10206",
+    "horodatage": "2026-09-20T03:59:00+02:00",
+    "machine": "SRV-FILE01",
+    "utilisateur": "svc_monitoring",
+    "titre": "Suppression de sauvegardes",
+    "gravite": "critique",
+    "statut": "ouvert",
+    "note_analyste": "Arrêt du service de sauvegarde puis suppression de points de restauration"
+  },
+  {
+    "id": "EDR-10207",
+    "horodatage": "2026-09-20T05:25:00+02:00",
+    "machine": "SRV-FILE01",
+    "utilisateur": "svc_monitoring",
+    "titre": "Comportement de rançongiciel",
+    "gravite": "critique",
+    "statut": "ouvert",
+    "note_analyste": "Chiffrement massif de fichiers sur les partages réseau"
+  },
+  {
+    "id": "EDR-10200",
+    "horodatage": "2026-09-20T08:32:28+02:00",
+    "machine": "PC-SIE-1252",
+    "utilisateur": "i.fournier",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10199",
+    "horodatage": "2026-09-20T11:39:09+02:00",
+    "machine": "PC-SIE-1280",
+    "utilisateur": "j.michel",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10202",
+    "horodatage": "2026-09-20T12:35:56+02:00",
+    "machine": "PC-SIE-1037",
+    "utilisateur": "p.laurent",
+    "titre": "Outil d'administration détecté",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "PsExec utilisé par l'IT"
+  },
+  {
+    "id": "EDR-10198",
+    "horodatage": "2026-09-20T13:42:53+02:00",
+    "machine": "PC-LYO-1054",
+    "utilisateur": "s.moreau",
+    "titre": "Script PowerShell",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Tâche de maintenance planifiée"
+  },
+  {
+    "id": "EDR-10201",
+    "horodatage": "2026-09-20T14:28:45+02:00",
+    "machine": "PC-SIE-1105",
+    "utilisateur": "m.boyer",
+    "titre": "Fichier compressé volumineux",
+    "gravite": "faible",
+    "statut": "clos_faux_positif",
+    "note_analyste": "Export comptable mensuel"
+  }
+]
