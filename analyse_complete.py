@@ -77,9 +77,13 @@ body_style = ParagraphStyle('BodyStyle', parent=styles['Normal'], fontSize=9, le
 cell_style = ParagraphStyle('CellStyle', parent=styles['Normal'], fontSize=8, leading=10, textColor=colors.HexColor('#222222'))
 cell_header = ParagraphStyle('CellHeader', parent=styles['Normal'], fontSize=8, leading=10, textColor=colors.whitesmoke, fontName='Helvetica-Bold')
 
+# Lien de ton dépôt GitHub
+LIEN_GITHUB = "https://github.com/YacineHrh/ProjetPython"
+
 story = [
     Paragraph("Rapport d'Investigation SOC — Incident Nordis", title_style),
-    Spacer(1, 5),
+    Paragraph(f"<b>Code source & Dépôt GitHub :</b> <a href='{LIEN_GITHUB}' color='blue'><u>{LIEN_GITHUB}</u></a>", body_style),
+    Spacer(1, 8),
     Paragraph("1. Synthèse Exécutive", h2_style),
     Paragraph("Entre le 11 et le 20 septembre 2026, l'entreprise a subi une cyberattaque majeure menant à la compromission du réseau, "
               "à l'exfiltration de <b>~853 Mo</b> de données comptables et au chiffrement des partages réseau (<code>SRV-FILE01</code>) par un rançongiciel. "
